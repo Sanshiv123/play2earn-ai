@@ -1,6 +1,9 @@
 # play2earn-ai
 
 ## Team members
+### Frontend: 
+### Backend: 
+### AI/ML:
 
 ## Task Assignment
 
