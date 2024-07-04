@@ -1,9 +1,12 @@
 # play2earn-ai
 
 ## Team members
-### Frontend: 
-### Backend: 
+### Frontend/UI: 
+- Sanchay, Quadir, Bhanu, Andreya, Yogesh, Phyu
+### DB/Backend: 
+- Rasha, Sanchusri
 ### AI/ML:
+- Sonal, Ryan, Nikita, Snehal, 
 
 ## Task Assignment
 
