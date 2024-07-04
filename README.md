@@ -6,9 +6,9 @@
 ### DB/Backend: 
 - Rasha, Sanchusri
 ### AI/ML:
-- Sonal, Ryan, Nikita, Snehal, 
+- Sonal, Ryan, Nikita, Snehal, Aslam, Natasha, Musfir
 ### Integration:
-- Aslam
+- 
   
 ## Task Assignment
 
