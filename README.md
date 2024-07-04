@@ -6,7 +6,7 @@
 ### DB/Backend: 
 - Rasha, Sanchusri
 ### AI/ML:
-- Sonal, Ryan, Nikita, Snehal, Aslam, Natasha, Musfir
+- Sonal, Ryan, Nikita, Snehal, Aslam, Natasha, Musfir, Ashwin, Sameer
 ### Integration:
 - 
   
