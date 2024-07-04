@@ -7,7 +7,9 @@
 - Rasha, Sanchusri
 ### AI/ML:
 - Sonal, Ryan, Nikita, Snehal, 
-
+### Integration:
+- Aslam
+  
 ## Task Assignment
 
 ## Project UI
